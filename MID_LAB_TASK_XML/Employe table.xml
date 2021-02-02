@@ -1,0 +1,25 @@
+<Employe>
+	<Employe>
+            	<id>01</id>
+		<name>John Doe</name>
+		<address>H#3,R#3,Banani,dhaka</address>
+		<department>Sales</department>
+		<salary>$20000</salary>
+	</Employe>
+
+	<Employe>
+            	<id>02</id>
+		<name>Mark</name>
+		<address>F#A/1,Mirpur,dhaka</address>
+		<department>account</department>
+		<salary>$12000</salary>
+	</Employe>
+
+	<Employe>
+            	<id>03</id>
+		<name>Ala Voski</name>
+		<address>H#38,R#3,dhaka</address>
+		<department>Human Resource</department>
+		<salary>$30000</salary>
+	</Employe>
+</Employe>
