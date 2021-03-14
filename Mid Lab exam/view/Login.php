@@ -7,10 +7,10 @@
 
 	<form method="post" action="../controller/loginCheck.php"> 
 		<fieldset>
-			<legend>Login</legend>
+			<legend><h3>LOGIN</h3></legend>
 			<table>
 				<tr>
-					<td>Username</td>
+					<td>ID</td>
 					<td><input type="text" name="userName"></td>
 				</tr>
 				<tr>
